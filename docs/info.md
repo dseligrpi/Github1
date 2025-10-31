@@ -17,4 +17,4 @@ Power it, press Step a few times, then press Reset to check it resets.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
